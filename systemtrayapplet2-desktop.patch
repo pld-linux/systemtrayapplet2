@@ -1,0 +1,13 @@
+--- systemtrayapplet2/src/systemtrayapplet2.desktop~	2004-11-09 22:58:41.000000000 +0100
++++ systemtrayapplet2/src/systemtrayapplet2.desktop	2004-12-15 14:13:55.224635968 +0100
+@@ -1,8 +1,10 @@
+ [Desktop Entry]
+ Encoding=UTF-8
+ Name=System Tray 2
++Name[pl]=Tacka systemowa 2
+ 
+ Comment=The system tray panel applet
++Comment[pl]=Aplet zasobnika systemowego
+ 
+ Icon=systemtray
+ 
