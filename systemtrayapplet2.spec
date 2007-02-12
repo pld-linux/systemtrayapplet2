@@ -1,5 +1,5 @@
 Summary:	KDE System Tray with icon hiding
-Summary(pl.UTF-8):   Zasobnik Systemowy KDE z możliwością ukrywania ikon
+Summary(pl.UTF-8):	Zasobnik Systemowy KDE z możliwością ukrywania ikon
 Name:		systemtrayapplet2
 Version:	0.51
 Release:	1
